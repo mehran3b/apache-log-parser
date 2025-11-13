@@ -15,7 +15,7 @@ It helped me understand how servers track user requests and how log data can sho
 
 ---
 
-## 🚀 Features
+## Features
 - Parse Apache logs using regular expressions  
 - Count specific HTTP status codes  
 - Identify special keywords inside URLs  
